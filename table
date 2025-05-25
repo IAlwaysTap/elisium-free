@@ -162,4 +162,4 @@ getgenv().Elisium = {
     }
 }
 
-loadstring(game:HttpGet("https://github.com/IAlwaysTap/free-elisium/blob/main/mobile.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IAlwaysTap/free-elisium/refs/heads/main/mobile.txt"))()
