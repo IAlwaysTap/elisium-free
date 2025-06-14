@@ -1,7 +1,7 @@
 --// Buy the paid version is way better then this x100 and cheap.
---// Join: discord.gg/KXwT6ngSzs
+--// Join: discord.gg/elisium
 
-getgenv().Elisium = {
+getgenv().Elisium = 
     ['General'] = {
         ['WaterMark'] = false,
         ['Version'] = 'V3',
